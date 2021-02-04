@@ -20,7 +20,7 @@ The response header should contain, at least 4 values:
 4. The `Content-Type` sets the mime-type of the file to stream
 
 
-You can detailed information [here](https://developer.mozilla.org/en-US/docs/Web/HTTP/Range_requests)
+You can find detailed information [here](https://developer.mozilla.org/en-US/docs/Web/HTTP/Range_requests)
 
 ## Credits
 
